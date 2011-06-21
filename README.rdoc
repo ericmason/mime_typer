@@ -1,0 +1,8 @@
+= mime_typer
+
+Simple and straightforward MIME types. Reads your /etc/mime.types file, its own built-in copy, or the file you specify, to get the MIME type for your file.
+
+== Usage
+
+* MimeTyper.type_for("somefile.html")
+
